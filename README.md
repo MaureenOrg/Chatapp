@@ -1,2 +1,2 @@
-# Whatsapp_web_clone
-A practice whatsapp web clone
+# Chat App
+A practice chat app
